@@ -1,8 +1,8 @@
 from,to,weight
-SH,JW,3
-SH,GL,2
-SH,PA,2
-SH,SD,2
+JW,SH,3
+GL,SH,2
+PA,SH,2
+SD,SH,2
 JW,GL,1
 JW,PA,1
 JW,SD,1
