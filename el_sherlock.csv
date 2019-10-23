@@ -1,11 +1,11 @@
 from,to,weight
-SH ,JW,5
-SH ,GL,3
-SH ,PA,2
-SH ,SD,2
-JW ,GL,1
-JW ,PA,1
-JW ,SD,1
+SH,JW,5
+SH,GL,3
+SH,PA,2
+SH,SD,2
+JW,GL,1
+JW,PA,1
+JW,SD,1
 GL,PA,3
 GL,SD,3
 PA,SD,4
