@@ -1,9 +1,9 @@
 from,to,weight
 JW,SH,3
 GL,SH,2
-PA,SH,2
-SD,SH,2
-JW,GL,1
+PA,SH,1
+SD,SH,1
+JW,GL,2
 JW,PA,1
 JW,SD,1
 GL,PA,2
