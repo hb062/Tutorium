@@ -1,33 +1,33 @@
 from,to,weight
-H ,S,3
-H ,U,3
-H ,R ,1
-H ,Bi ,2
-H ,HB,3
-H ,A ,3
-H ,S,3
-H ,J ,3
-H ,M ,3
-Si,Ba ,2
-Sa ,U,1
-Sa ,R,1
-Sa ,Bi ,2
-Sa ,J,3
-Sa ,S,3
-Sa ,M,3
-Sa ,Ba ,1
-Sa ,HB,1
-Sa ,A ,1
-U,Sa ,2
+H,S,3
+H,U,3
+H,R,1
+H,Bi,2
+H,HB,3
+H,A,3
+H,S,3
+H,J,3
+H,M,3
+Si,Ba,2
+Sa,U,1
+Sa,R,1
+Sa,Bi,2
+Sa,J,3
+Sa,S,3
+Sa,M,3
+Sa,Ba,1
+Sa,HB,1
+Sa,A,1
+U,Sa,2
 U,H,3
-U,Bi ,3
+U,Bi,3
 U,R,3
 U,S,2
 U,J,2
 U,M,2
 U,H,1
-U,A ,1
-Bi ,R,3
+U,A,1
+Bi,R,3
 Bi,S,2
 Bi,J,2
 Bi,M,2
