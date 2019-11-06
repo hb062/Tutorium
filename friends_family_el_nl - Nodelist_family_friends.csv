@@ -1,0 +1,18 @@
+id,name,sex,locaction,fans,type
+H,Hannah,2,1,100,1
+Sa ,Sabine,2,1,200,1
+U,Ursula,2,1,50,1
+Bi,Birgit,2,1,30,1
+R,Rainer,1,1,30,1
+Si,Sina,2,2,30,1
+J,Jana,2,2,50,1
+"Ba
+",Basti,1,2,,2
+M,Michaela,2,2,1000,1
+HB,Hannah Bosse,2,1,,2
+A,Annalena,2,1,,2
+,,,,,
+,,,,,
+,,location,,,Type
+,,1 BaWü,,,1 Familie
+,,2 BY,,,2 Freunde
