@@ -1,0 +1,18 @@
+id,name,sex,type,sponsor
+wd,Dietrich,1,1,99
+wp,Porth,1,1,99
+wg,Gaiser,1,1,99
+hj,Jenner,1,1,99
+ho,Ohlicher,1,1,99
+fr,Reiner,1,1,99
+bs,Sugg,1,1,99
+bb,Mercedes Bank,99,0,1
+mb,Mercedes,99,0,1
+ka,Kaercher,99,0,1
+kr,Krombacher,99,0,1
+vfb,Aufsichtsrat VfB,99,0,99
+rb,Robert Bosch GmbH,99,0,2
+cg,Courage Gerlingen,99,0,2
+da,Daimler AG,99,0,2
+df,Daimler Financial Services AG,99,0,2
+ja,Jako,99,0,1
